@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JsonApiRestParamHeaders</string>
+    <string name="act_main_txt_resultado">Listado Paises Payphone</string>
+    <string name="lbl_act_main_title">Listado de paises que usan Payphone!</string>
+</resources>
